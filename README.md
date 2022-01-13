@@ -1,7 +1,9 @@
 
 
+![Blue Violet Lifecycle Cycle Diagram (1)](https://user-images.githubusercontent.com/88034001/149386116-1c7bca91-8293-41e7-8a15-6866cafcf117.png)
 
-https://user-images.githubusercontent.com/88034001/149382512-0f3a32a7-cbf6-41fb-b107-27022ce0a460.mp4
+
+
 
 
 
