@@ -1,13 +1,3 @@
-
-
-![Blue Violet Lifecycle Cycle Diagram (1)](https://user-images.githubusercontent.com/88034001/149386116-1c7bca91-8293-41e7-8a15-6866cafcf117.png)
-
-
-
-
-
-
-<!--
 **Maziar-Mehr/Maziar-Mehr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
